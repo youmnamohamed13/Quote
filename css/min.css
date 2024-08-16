@@ -1,0 +1,26 @@
+body{
+    display: block;
+    margin: 0;
+}
+.backGround {
+    height: 100vh;
+    background-image: url(../img/IMG-20240622-WA0089.jpg);
+    background-size: 100% 100%;
+    background-position: center;
+
+}
+
+
+
+.boxShadow {
+    border: 1px solid transparent;
+    border-radius: 20px;
+    min-height: 450px;
+    padding: 50px 10px 0;
+    padding-top: 50px;
+    padding-right: 10px;
+    padding-bottom: 0px;
+    padding-left: 10px;
+    background-color: rgba(0, 0, 0, 0.7);
+}
+ 
